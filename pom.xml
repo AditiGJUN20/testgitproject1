@@ -3,4 +3,12 @@
   <groupId>testgitproject1</groupId>
   <artifactId>testgitproject1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<!-- https://mvnrepository.com/artifact/org.json/json -->
+<dependencies>
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20230618</version>
+</dependency>
+</dependencies>
 </project>
