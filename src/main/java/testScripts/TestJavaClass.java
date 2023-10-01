@@ -1,4 +1,4 @@
-package testgitproject1;
+package testScripts;
 
 public class TestJavaClass {
 
