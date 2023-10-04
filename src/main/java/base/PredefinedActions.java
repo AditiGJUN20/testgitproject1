@@ -4,6 +4,6 @@ import org.openqa.selenium.WebDriver;
 
 public class PredefinedActions {
 
-	private static WebDriver driver;
+	//private static WebDriver driver;
 	
 }
